@@ -1,36 +1,94 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# 🍽️ Restaurante Demo – Nicaragua  [ES - 🇳🇮]
 
-## Getting Started
+[![Next.js](https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white)](https://nextjs.org/)  
+[![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?logo=tailwind-css&logoColor=white)](https://tailwindcss.com/)  
+[![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)](https://www.typescriptlang.org/)  
+[![Vercel](https://img.shields.io/badge/Deployed_on-Vercel-000000?logo=vercel&logoColor=white)](https://vercel.com/)  
+[![Status](https://img.shields.io/badge/Status-Demo_Project-yellow)]()  
 
-First, run the development server:
+Este proyecto es una **página web demo para un restaurante nicaragüense**, desarrollada con **Next.js**.  
+Forma parte de mi portafolio como desarrollador web y sirve como ejemplo de una plantilla que puede adaptarse para negocios gastronómicos en Nicaragua o en cualquier parte del mundo.  
 
+👉 **Demo en línea:** [https://restaurante-demo.vercel.app](https://nicaraguan-restaurant-demo.vercel.app)  
+
+---
+
+## 🚀 Tecnologías utilizadas
+- [Next.js](https://nextjs.org/) – Framework de React  
+- [Tailwind CSS](https://tailwindcss.com/) – Estilos modernos y responsivos  
+- [TypeScript](https://www.typescriptlang.org/) – Tipado seguro  
+- [Vercel](https://vercel.com/) – Hosting y despliegue  
+
+---
+
+## ✨ Características principales
+- Diseño **moderno y responsivo** (móvil, tablet y desktop)  
+- Sección de **menú de platos** con imágenes atractivas  
+- Hero principal con foto del restaurante  
+- **CTA** para reservar o contactar  
+- Código limpio y fácil de personalizar  
+
+---
+
+## 📷 Vista previa
+![Demo Restaurante](./public/images/demo-screenshot.png)
+
+---
+
+# 🍽️ Restaurant Demo – Nicaragua [EN]
+[![Next.js](https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white)](https://nextjs.org/)  
+[![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?logo=tailwind-css&logoColor=white)](https://tailwindcss.com/)  
+[![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)](https://www.typescriptlang.org/)  
+[![Vercel](https://img.shields.io/badge/Deployed_on-Vercel-000000?logo=vercel&logoColor=white)](https://vercel.com/)  
+[![Status](https://img.shields.io/badge/Status-Demo_Project-yellow)]()
+
+This project is a demo website for a Nicaraguan restaurant, built with Next.js.
+It is part of my portfolio as a web developer and serves as an example template that can be adapted for restaurants or food businesses in Nicaragua or anywhere in the world.
+
+👉 **Live Demo:** [https://restaurant-demo.vercel.app](https://nicaraguan-restaurant-demo.vercel.app)
+
+---
+
+ ## 🚀 Technologies Used
+ – [Next.js](https://nextjs.org/) - React Framework  
+ – [Tailwind CSS](https://tailwindcss.com/) – Modern, responsive styling   
+ – [TypeScript](https://www.typescriptlang.org/) – Strong typing   
+ – [Vercel](https://vercel.com/) – Hosting and deployment   
+
+---
+
+---
+## ✨ Main Features
+
+- Modern, **responsive design** (mobile, tablet, desktop)
+- Menu section with attractive **food images**
+- Hero section with restaurant photo
+- **Call-to-action** (CTA) for booking/contact
+- Clean, customizable code
+---
+
+## 📷 Preview
+![Demo Restaurante](./public/images/demo-screenshot.png)
+
+---
+
+## ⚡ Cómo ejecutar en local - ⚡ Run Locally
 ```bash
+git@github.com:Luis93Hub/Nicaraguan-Restaurant---Demo.git
+cd restaurante-demo
+npm install
 npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
 ```
+Abre <http://localhost:3000> en tu navegador.
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+Open <http://localhost:3000> in your browser.
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+👨‍💻 Autor - 👨‍💻 Author
 
-## Learn More
+Desarrollado por [Drunic - Luis Hernandez] -- Developed by [Drunic - Luis Hernandez]
 
-To learn more about Next.js, take a look at the following resources:
+## 📄 License
+Este proyecto es solo un demo de portafolio y no está pensado para uso comercial directo sin personalización.
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+This project is a portfolio demo only and not intended for direct commercial use without customization.
