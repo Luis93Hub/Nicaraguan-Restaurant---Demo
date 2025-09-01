@@ -45,12 +45,14 @@ export default function Contact(){
         </div>
 
         <div className="text-center mt-12">
-          <button className="bg-white text-blue-800 px-8 py-3 rounded-lg font-semibold hover:bg-blue-50 transition-colors mr-4">
-            Hacer Reservación
-          </button>
-          <button className="border-2 border-white text-white px-8 py-3 rounded-lg font-semibold hover:bg-white hover:text-blue-800 transition-colors">
-            Ordenar para Llevar
-          </button>
+          <div className="flex flex-col sm:flex-row gap-4 justify-center items-center">
+            <button className="bg-white text-blue-800 px-8 py-3 rounded-lg font-semibold hover:bg-blue-50 transition-colors w-full sm:w-auto">
+              Hacer Reservación
+            </button>
+            <button className="border-2 border-white text-white px-8 py-3 rounded-lg font-semibold hover:bg-white hover:text-blue-800 transition-colors w-full sm:w-auto">
+              Ordenar para Llevar
+            </button>
+          </div>
         </div>
       </div>
     </section>
